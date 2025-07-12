@@ -1,4 +1,3 @@
-<body style="background-color: black;">
 # 👩🏻‍💻 Juliana Araújo
 
 **`Desenvolvedora Web Junior`**
@@ -81,4 +80,3 @@ Me chamo Juliana de Souza Araújo, tenho 16 anos e sou de São Paulo. Atualmente
   />
 
 </p>
-</body>
