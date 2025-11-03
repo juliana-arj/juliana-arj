@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Web Junior em formação`**
 
-Me chamo Juliana de Souza Araújo, tenho 16 anos e sou de São Paulo. Atualmente, estou cursando o ensino médio e o técnico em Informática para Internet, aprofundando meus conhecimentos em desenvolvimento web e soluções tecnológicas. Sou apaixonada por tecnologia e estou sempre em busca de novos aprendizados que me desafiem a crescer tanto profissional quanto pessoalmente.
+Me chamo Juliana de Souza Araújo, tenho 17 anos e sou de São Paulo. Atualmente, estou cursando o ensino médio e o técnico em Informática para Internet, aprofundando meus conhecimentos em desenvolvimento web e soluções tecnológicas. Sou apaixonada por tecnologia e estou sempre em busca de novos aprendizados que me desafiem a crescer tanto profissional quanto pessoalmente.
 
 <p align="left">
     <a href="https://github.com/juliana-arj?tab=repositories&sort=stargazers">
